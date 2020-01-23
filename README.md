@@ -11,7 +11,7 @@ Press 'Z' to clear
 
 ## Built With
 
-* [Java Swing](https://docs.oracle.com/javase/tutorial/uiswing/ - The gui used  
+* [Java Swing](https://docs.oracle.com/javase/tutorial/uiswing/) - The gui used  
 
 ## Acknowledgments
 
